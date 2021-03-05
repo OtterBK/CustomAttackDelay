@@ -26,5 +26,7 @@
 #### 📷 스냅샷
 [![유튜브](http://img.youtube.com/vi/bxuja8cmILM/0.jpg)](https://youtu.be/bxuja8cmILM?t=0s) 
 
+##### 클릭하여 동영상 시청
+
 
 
