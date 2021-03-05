@@ -1,0 +1,7 @@
+name: AttackDelay
+main: Main
+version: 0.01
+description: Made by Bokum
+commands:
+  ad:
+    description: set Attack Delay
